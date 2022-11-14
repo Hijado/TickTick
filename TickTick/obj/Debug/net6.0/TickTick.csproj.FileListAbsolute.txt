@@ -1,0 +1,282 @@
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Fonts\HintFont.xnb
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Fonts\MainFont.xnb
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Sounds\snd_beep.xnb
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Sounds\snd_beep_high.xnb
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Sounds\snd_music.ogg
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Sounds\snd_music.xnb
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Sounds\snd_player_die.xnb
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Sounds\snd_player_explode.xnb
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Sounds\snd_player_jump.xnb
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Sounds\snd_watercollected.xnb
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Sounds\snd_won.xnb
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\Backgrounds\spr_cloud_1.xnb
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\Backgrounds\spr_cloud_2.xnb
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\Backgrounds\spr_cloud_3.xnb
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\Backgrounds\spr_cloud_4.xnb
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\Backgrounds\spr_cloud_5.xnb
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\Backgrounds\spr_help.xnb
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\Backgrounds\spr_levelselect.xnb
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\Backgrounds\spr_mountain_1.xnb
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\Backgrounds\spr_mountain_2.xnb
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\Backgrounds\spr_sky.xnb
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\Backgrounds\spr_title.xnb
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\LevelObjects\Flame\spr_flame@9.xnb
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\LevelObjects\Player\spr_celebrate@14.xnb
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\LevelObjects\Player\spr_die@5.xnb
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\LevelObjects\Player\spr_explode@5x5.xnb
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\LevelObjects\Player\spr_idle.xnb
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\LevelObjects\Player\spr_jump@14.xnb
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\LevelObjects\Player\spr_run@13.xnb
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\LevelObjects\Rocket\spr_rocket@3.xnb
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\LevelObjects\Sparky\spr_electrocute.xnb
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\LevelObjects\Sparky\spr_electrocute@6x5.xnb
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\LevelObjects\Sparky\spr_idle.xnb
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\LevelObjects\spr_goal.xnb
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\LevelObjects\spr_water.xnb
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\LevelObjects\Turtle\spr_idle.xnb
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\LevelObjects\Turtle\spr_sneeze@9.xnb
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\Tiles\spr_platform.xnb
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\Tiles\spr_platform_hot.xnb
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\Tiles\spr_platform_ice.xnb
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\Tiles\spr_wall.xnb
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\Tiles\spr_wall_hot.xnb
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\Tiles\spr_wall_ice.xnb
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\UI\spr_button_back.xnb
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\UI\spr_button_help.xnb
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\UI\spr_button_play.xnb
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\UI\spr_button_quit.xnb
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\UI\spr_frame_hint.xnb
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\UI\spr_gameover.xnb
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\UI\spr_level_locked.xnb
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\UI\spr_level_solved.xnb
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\UI\spr_level_unsolved.xnb
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\UI\spr_timer.xnb
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\UI\spr_welldone.xnb
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Levels\level1.txt
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Levels\level10.txt
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Levels\level2.txt
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Levels\level3.txt
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Levels\level4.txt
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Levels\level5.txt
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Levels\level6.txt
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Levels\level7.txt
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Levels\level8.txt
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Levels\level9.txt
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Levels\levels_status.txt
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\TickTick.exe
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\TickTick.deps.json
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\TickTick.runtimeconfig.json
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\TickTick.dll
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\TickTick.pdb
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Engine.dll
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Engine.pdb
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\obj\Debug\net6.0\TickTick.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\obj\Debug\net6.0\TickTick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\obj\Debug\net6.0\TickTick.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\obj\Debug\net6.0\TickTick.AssemblyInfo.cs
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\obj\Debug\net6.0\TickTick.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\obj\Debug\net6.0\TickTick.csproj.CopyComplete
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\obj\Debug\net6.0\TickTick.dll
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\obj\Debug\net6.0\refint\TickTick.dll
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\obj\Debug\net6.0\TickTick.pdb
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\obj\Debug\net6.0\TickTick.genruntimeconfig.cache
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\obj\Debug\net6.0\ref\TickTick.dll
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\LevelObjects\powerUpOrDown.xnb
+C:\Users\User\Downloads\TickTick(2)\TickTick\TickTick\bin\Debug\net6.0\Content\Sounds\snd_power.xnb
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Levels\level1.txt
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Levels\level10.txt
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Levels\level2.txt
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Levels\level3.txt
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Levels\level4.txt
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Levels\level5.txt
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Levels\level6.txt
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Levels\level7.txt
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Levels\level8.txt
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Levels\level9.txt
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Levels\levels_status.txt
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Fonts\HintFont.xnb
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Fonts\MainFont.xnb
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sounds\snd_beep.xnb
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sounds\snd_beep_high.xnb
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sounds\snd_music.ogg
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sounds\snd_music.xnb
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sounds\snd_player_die.xnb
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sounds\snd_player_explode.xnb
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sounds\snd_player_jump.xnb
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sounds\snd_power.xnb
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sounds\snd_watercollected.xnb
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sounds\snd_won.xnb
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\Backgrounds\spr_cloud_1.xnb
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\Backgrounds\spr_cloud_2.xnb
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\Backgrounds\spr_cloud_3.xnb
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\Backgrounds\spr_cloud_4.xnb
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\Backgrounds\spr_cloud_5.xnb
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\Backgrounds\spr_help.xnb
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\Backgrounds\spr_levelselect.xnb
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\Backgrounds\spr_mountain_1.xnb
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\Backgrounds\spr_mountain_2.xnb
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\Backgrounds\spr_sky.xnb
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\Backgrounds\spr_title.xnb
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\LevelObjects\Flame\spr_flame@9.xnb
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\LevelObjects\Player\spr_celebrate@14.xnb
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\LevelObjects\Player\spr_die@5.xnb
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\LevelObjects\Player\spr_explode@5x5.xnb
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\LevelObjects\Player\spr_idle.xnb
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\LevelObjects\Player\spr_jump@14.xnb
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\LevelObjects\Player\spr_run@13.xnb
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\LevelObjects\powerUpOrDown.xnb
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\LevelObjects\Rocket\spr_rocket@3.xnb
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\LevelObjects\Sparky\spr_electrocute.xnb
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\LevelObjects\Sparky\spr_electrocute@6x5.xnb
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\LevelObjects\Sparky\spr_idle.xnb
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\LevelObjects\spr_goal.xnb
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\LevelObjects\spr_water.xnb
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\LevelObjects\Turtle\spr_idle.xnb
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\LevelObjects\Turtle\spr_sneeze@9.xnb
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\Tiles\spr_platform.xnb
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\Tiles\spr_platform_hot.xnb
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\Tiles\spr_platform_ice.xnb
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\Tiles\spr_wall.xnb
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\Tiles\spr_wall_hot.xnb
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\Tiles\spr_wall_ice.xnb
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\UI\spr_button_back.xnb
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\UI\spr_button_help.xnb
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\UI\spr_button_play.xnb
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\UI\spr_button_quit.xnb
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\UI\spr_frame_hint.xnb
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\UI\spr_gameover.xnb
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\UI\spr_level_locked.xnb
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\UI\spr_level_solved.xnb
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\UI\spr_level_unsolved.xnb
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\UI\spr_timer.xnb
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\UI\spr_welldone.xnb
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\TickTick.exe
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\TickTick.deps.json
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\TickTick.runtimeconfig.json
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\TickTick.dll
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\TickTick.pdb
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Engine.dll
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Engine.pdb
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\obj\Debug\net6.0\TickTick.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\obj\Debug\net6.0\TickTick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\obj\Debug\net6.0\TickTick.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\obj\Debug\net6.0\TickTick.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\obj\Debug\net6.0\TickTick.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\obj\Debug\net6.0\TickTick.csproj.CopyComplete
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\obj\Debug\net6.0\TickTick.dll
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\obj\Debug\net6.0\refint\TickTick.dll
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\obj\Debug\net6.0\TickTick.pdb
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\obj\Debug\net6.0\TickTick.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\obj\Debug\net6.0\ref\TickTick.dll
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Levels\level1.txt
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Levels\level10.txt
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Levels\level2.txt
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Levels\level3.txt
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Levels\level4.txt
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Levels\level5.txt
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Levels\level6.txt
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Levels\level7.txt
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Levels\level8.txt
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Levels\level9.txt
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Levels\levels_status.txt
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Fonts\HintFont.xnb
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Fonts\MainFont.xnb
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sounds\snd_beep.xnb
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sounds\snd_beep_high.xnb
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sounds\snd_music.ogg
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sounds\snd_music.xnb
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sounds\snd_player_die.xnb
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sounds\snd_player_explode.xnb
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sounds\snd_player_jump.xnb
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sounds\snd_power.xnb
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sounds\snd_watercollected.xnb
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sounds\snd_won.xnb
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\Backgrounds\spr_cloud_1.xnb
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\Backgrounds\spr_cloud_2.xnb
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\Backgrounds\spr_cloud_3.xnb
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\Backgrounds\spr_cloud_4.xnb
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\Backgrounds\spr_cloud_5.xnb
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\Backgrounds\spr_help.xnb
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\Backgrounds\spr_levelselect.xnb
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\Backgrounds\spr_mountain_1.xnb
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\Backgrounds\spr_mountain_2.xnb
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\Backgrounds\spr_sky.xnb
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\Backgrounds\spr_title.xnb
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\LevelObjects\Flame\spr_flame@9.xnb
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\LevelObjects\Player\spr_celebrate@14.xnb
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\LevelObjects\Player\spr_die@5.xnb
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\LevelObjects\Player\spr_explode@5x5.xnb
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\LevelObjects\Player\spr_idle.xnb
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\LevelObjects\Player\spr_jump@14.xnb
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\LevelObjects\Player\spr_run@13.xnb
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\LevelObjects\powerUpOrDown.xnb
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\LevelObjects\Rocket\spr_rocket@3.xnb
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\LevelObjects\Sparky\spr_electrocute.xnb
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\LevelObjects\Sparky\spr_electrocute@6x5.xnb
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\LevelObjects\Sparky\spr_idle.xnb
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\LevelObjects\spr_goal.xnb
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\LevelObjects\spr_water.xnb
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\LevelObjects\Turtle\spr_idle.xnb
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\LevelObjects\Turtle\spr_sneeze@9.xnb
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\Tiles\spr_platform.xnb
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\Tiles\spr_platform_hot.xnb
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\Tiles\spr_platform_ice.xnb
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\Tiles\spr_wall.xnb
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\Tiles\spr_wall_hot.xnb
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\Tiles\spr_wall_ice.xnb
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\UI\spr_button_back.xnb
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\UI\spr_button_help.xnb
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\UI\spr_button_play.xnb
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\UI\spr_button_quit.xnb
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\UI\spr_frame_hint.xnb
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\UI\spr_gameover.xnb
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\UI\spr_level_locked.xnb
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\UI\spr_level_solved.xnb
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\UI\spr_level_unsolved.xnb
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\UI\spr_timer.xnb
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Content\Sprites\UI\spr_welldone.xnb
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\TickTick.exe
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\TickTick.deps.json
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\TickTick.runtimeconfig.json
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\TickTick.dll
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\TickTick.pdb
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Engine.dll
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\bin\Debug\net6.0\Engine.pdb
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\obj\Debug\net6.0\TickTick.csproj.AssemblyReference.cache
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\obj\Debug\net6.0\TickTick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\obj\Debug\net6.0\TickTick.AssemblyInfoInputs.cache
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\obj\Debug\net6.0\TickTick.AssemblyInfo.cs
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\obj\Debug\net6.0\TickTick.csproj.CoreCompileInputs.cache
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\obj\Debug\net6.0\TickTick.csproj.CopyComplete
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\obj\Debug\net6.0\TickTick.dll
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\obj\Debug\net6.0\refint\TickTick.dll
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\obj\Debug\net6.0\TickTick.pdb
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\obj\Debug\net6.0\TickTick.genruntimeconfig.cache
+C:\Users\Guyang Zhao\OneDrive\Documenten\Visual Studio 2022\TickTick\TickTick\TickTick\obj\Debug\net6.0\ref\TickTick.dll
